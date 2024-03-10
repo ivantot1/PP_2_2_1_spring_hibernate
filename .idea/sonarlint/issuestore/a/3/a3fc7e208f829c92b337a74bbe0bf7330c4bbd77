@@ -1,0 +1,11 @@
+
+±
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¡Ø¶˛8ûÃ‚œ‚1J$35bd19d9-1f4b-4540-953b-07aecad8f77a
+É	java:S125"<This block of commented-out lines of code should be removed.(∆ï¿ê˛ˇˇˇˇ8ßÃ‚œ‚1J$bf2e1f4a-2704-4f38-ba15-b8b2c4d1b0f4
+m	java:S106'"+Replace this use of System.out by a logger.(¬åÊÌ8©Ã‚œ‚1J$1cf15a16-13c3-4a5e-b09a-601de7afbec6
+r	java:S106("+Replace this use of System.out by a logger.(ëﬂ‚‡˚ˇˇˇˇ8™Ã‚œ‚1J$5263b84c-b129-4856-9c1f-85078cca29b1
+r	java:S106)"+Replace this use of System.out by a logger.(≤æÔ˛¯ˇˇˇˇ8™Ã‚œ‚1J$debd2bc6-a15d-4320-a088-4c06b659aca3
+r	java:S106*"+Replace this use of System.out by a logger.(©Õ≠æ˚ˇˇˇˇ8´Ã‚œ‚1J$52023160-5c5c-488f-8b04-e5c6650fa39b
+r	java:S106+"+Replace this use of System.out by a logger.(™”º·˛ˇˇˇˇ8´Ã‚œ‚1J$576c6b5e-e2e7-48c0-a709-f3896c2da6c0
+q
+java:S1128".Remove this unused import 'hiber.dao.UserDao'.(˚≤èÚ8Â»„œ‚1J$93886a9d-1b80-442c-ab16-cc057040ee69

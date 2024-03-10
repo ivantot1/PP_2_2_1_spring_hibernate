@@ -1,0 +1,10 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8£µºÏâ1J$32ecc03d-09e4-49e1-9067-d0564c9df915
+‹
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8ªáÏâ1J$a3a91264-9c28-4b2d-8bae-3d401108deec
+}
+java:S1128	"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ8ªáÏâ1J$abfdcd7c-be0e-405f-9eab-4b0a1e305d56
+|
+java:S1128
+"4Remove this unused import 'javax.persistence.Table'.(˜øŒ“øÿÿÿÿ8ŸªáÏâ1J$f3c2befd-5560-49fa-ae2f-3449a14ff940
